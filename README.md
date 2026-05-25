@@ -8,7 +8,11 @@
 
 ## Past
 
-Built and led enterprise architecture programs across large-scale organizations — distributed systems, platform modernization, cross-functional technical strategy. Founded and ran Stony Point, Inc. for 14 years, a Salesforce consulting and training firm that reached 38 people and $3.9M in annual revenue, with $50M+ in client outcomes delivered. The kind of work where the constraint is always organizational, never technical.
+The AI work started earlier than it looks. In 1998, I was Director of Software Development at MedAI, leading 16 engineers building AI-driven treatment prediction and insurance billing optimization for healthcare. Before "machine learning" entered most engineering vocabulary.
+
+Built and led enterprise architecture programs across large-scale organizations after that: distributed systems, platform modernization, cross-functional technical strategy. Founded and ran Stony Point, Inc. for 14 years, a Salesforce consulting and training firm that reached 38 people and $3.9M in annual revenue, with $50M+ in client outcomes delivered.
+
+The kind of work where the constraint is always organizational, never technical.
 
 ## Present
 
