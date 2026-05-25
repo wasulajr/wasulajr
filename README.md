@@ -8,7 +8,7 @@
 
 ## Past
 
-Built and led enterprise architecture programs across large-scale organizations — distributed systems, platform modernization, cross-functional technical strategy. The kind of work where the constraint is always organizational, never technical.
+Built and led enterprise architecture programs across large-scale organizations — distributed systems, platform modernization, cross-functional technical strategy. Founded and ran Stony Point, Inc. for 14 years, a Salesforce consulting and training firm that reached 38 people and $3.9M in annual revenue, with $50M+ in client outcomes delivered. The kind of work where the constraint is always organizational, never technical.
 
 ## Present
 
@@ -28,7 +28,7 @@ Taking what works at the individual contributor level and applying it at the ent
 
 ## What I build with
 
-Python · Shell · Claude Code hooks · iTerm2 Python API · launchd · SVG · Enterprise architecture
+Python · Shell · Claude Code hooks · iTerm2 Python API · launchd · SVG · Salesforce platform · Enterprise architecture
 
 ---
 
