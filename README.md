@@ -34,4 +34,4 @@ Python · Shell · Claude Code hooks · iTerm2 Python API · launchd · SVG · E
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/stevewasula) · [steve@stonyp.com](mailto:steve@stonyp.com)
+[LinkedIn](https://www.linkedin.com/in/stevewasula) · [Facebook](https://www.facebook.com/wasulajr) · [steve@stonyp.com](mailto:steve@stonyp.com)
