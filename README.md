@@ -8,9 +8,7 @@
 
 ## Past
 
-The AI work started earlier than it looks. In 1998, I was Director of Software Development at MedAI, leading 16 engineers building AI-driven treatment prediction and insurance billing optimization for healthcare. Before "machine learning" entered most engineering vocabulary.
-
-Built and led enterprise architecture programs across large-scale organizations after that: distributed systems, platform modernization, cross-functional technical strategy. Founded and ran Stony Point, Inc. for 14 years, a Salesforce consulting and training firm that reached 38 people and $3.9M in annual revenue, with $50M+ in client outcomes delivered.
+Built and led enterprise architecture programs across large-scale organizations: distributed systems, platform modernization, cross-functional technical strategy. AI work goes back to 1998 — MedAI, healthcare treatment prediction and billing optimization. Founded and ran Stony Point, Inc. for 14 years, a Salesforce consulting and training firm that reached 38 people and $3.9M in annual revenue, with $50M+ in client outcomes delivered.
 
 The kind of work where the constraint is always organizational, never technical.
 
@@ -22,7 +20,7 @@ Two public projects that came out of this work:
 
 **[spinediagrams](https://github.com/wasulajr/spinediagrams)** — A zero-dependency Python SVG renderer for architecture diagrams, shipped as a Claude Code `.skill` bundle. Single-spine orthogonal routing, vendor palettes (AWS/GCP/Azure), status color overlays. Built because every existing diagramming tool required either a runtime dependency or a context switch.
 
-**[lookout](https://github.com/wasulajr/lookout)** — Glanceable Claude Code state for iTerm2. Tab turns orange when Claude needs you, blue when it's working, white when idle. Two-process architecture: bash hook layer + persistent Python daemon + launchd watchdog + 4-layer self-healing. Six companion skills for in-session management. Built because losing track of which tab needs attention at scale is a real problem.
+**[headsup](https://github.com/wasulajr/headsup)** — Glanceable Claude Code state for iTerm2. Tab turns orange when Claude needs you, blue when it's working, white when idle. Two-process architecture: bash hook layer + persistent Python daemon + launchd watchdog + 4-layer self-healing. Six companion skills for in-session management. Built because losing track of which tab needs attention at scale is a real problem.
 
 ## Future
 
