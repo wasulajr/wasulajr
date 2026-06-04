@@ -24,13 +24,13 @@ Two public projects that came out of this work:
 
 ## Future
 
-Taking what works at the individual contributor level and applying it at the enterprise level. AI-native engineering isn't a tool purchase — it's a workflow redesign, a capability build, and a cultural shift happening simultaneously. I've been doing all three. Looking for organizations ready to do this at scale.
+I know AI is already allowing me to build things I've always wanted to build but never had the time.  It already builds better code with more robust fault handling and recovery, better testing, and better efficiency using the latest tools available.  It helps make design choices and implements best practices in a way that I always wanted to do but could not afford the cost or the time.  I believe AI is going to solve so many problems and make all our lives better if we treat it as a partner in the journey.  I am trying to do my part to make that vision a reality!
 
 ---
 
 ## What I build with
 
-Python · Shell · Claude Code hooks · iTerm2 Python API · launchd · SVG · Salesforce platform · Enterprise architecture
+Claude Code · Codex · Salesforce · Python · JavaScript · ReactJS · Node.js · iTerm2 · VS Code · CoPilot · Gemini · Grok
 
 ---
 
